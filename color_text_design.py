@@ -1,0 +1,7 @@
+print("\033[1;37;40m My Name Is Ryan\033[0m 2;37;40m")
+print("\033[1;37;40m This Is My Custom Color Design\033[0m 2;37;40m")
+print("\033[1;37;40m Say The Color You See\033[0m 2;37;40m")
+print("\033[1;32;40m Red\033[0m 1;32;40m")
+print("\033[1;35;40m Blue\033[0m 1;35;40m")
+print("\033[1;34;40m Green\033[0m 1;34;40m")
+print("\033[1;33;40m Orange\033[0m 1;33;40m")
